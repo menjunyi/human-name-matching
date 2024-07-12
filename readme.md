@@ -11,7 +11,7 @@ things you need to install the software and how to install them:
 ### Installing
 
 1. Clone the repo:
-   `git clone https://github.com/yourusername/projectname.git`
+   `git clone https://github.com/menjunyi/human-name-matching.git`
 
 2. Install NPM packages:
    `cd projectname npm install`
