@@ -1,0 +1,5 @@
+human-name-matching.iml
+/package-lock.json
+/dist/*
+/node_modules/*
+/.idea/*
